@@ -12,3 +12,4 @@
 	- Move out dates/Residence hall guidelines
 	- What full retail price is
 	
+
